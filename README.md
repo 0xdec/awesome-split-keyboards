@@ -65,7 +65,7 @@ https://yushakobo.jp/shop/helix-keyboard-kit/
 <img src="img/Helix.jpg" width="400px"/>
 
 
-## HeliDox
+## Corne
 https://github.com/foostan/crkbd/
 
 <img src="img/HeliDox.jpg" width="400px"/> <img src="img/HeliDox_PCB.jpg" width="400px"/>
